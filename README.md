@@ -149,8 +149,8 @@ A **Django-based Car & Bike Rental System**:
 
 - 🌐 GitHub: https://github.com/omkarmore003  
 - 💼 LinkedIn: https://www.linkedin.com/in/omkar-more-566894259/
-- 📧 Email: moreomkar609@gmail.com  
-
+- 📧 Email: moreomkar609@gmail.com
+- Phone
 ---
 
 ⭐ If you find my projects interesting, feel free to explore and give them a star!

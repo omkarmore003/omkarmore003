@@ -1,156 +1,161 @@
 # Hi 👋, I'm Omkar More
+<div>
+  <a href="https://github.com/omkarmore003" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omkar-more-566894259/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:moreomkar609@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  </a>
+</div>
 
 🚀 AI & Machine Learning Enthusiast | 💻 Software Developer | 🤖 Problem Solver  
 
-> 🚀 AI & Machine Learning enthusiast passionate about building intelligent systems and solving real-world problems using data-driven approaches.
+> Passionate about building intelligent systems and solving real-world problems using data-driven approaches.  
+> Focused on AI-powered accessibility solutions, computer vision, and full-stack development.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a passionate **Computer Science Engineer** with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
-I enjoy building **AI-powered applications**, designing **scalable systems**, and solving **real-world problems**, especially in the domains of **accessibility, automation, and intelligent decision-making**.
+I am a passionate **Computer Science Engineer** specializing in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+I enjoy building **AI-driven applications**, designing **scalable systems**, and solving **real-world problems**, especially in **accessibility, automation, and intelligent decision-making**.
 
-My core focus areas include:
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- AI-assisted accessibility systems
-- Full-stack web development
-- Data analytics & system integration
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Key Interests**
+- 🤖 Machine Learning & Deep Learning  
+- 👁️ Computer Vision & NLP  
+- ♿ AI for Accessibility  
+- 🌐 Full-Stack Development  
+- 📊 Data-Driven Systems  
 
 ---
 
-### 🤖 AI / ML / Data
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+##  Tech Stack
 
----
-
-### 🌐 Web & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI-Driven Supply Chain Disruption Predictor
-- Predicts potential supply chain disruptions using data analysis & ML
-- Automates inventory adjustment logic
-- Focus on **decision intelligence & ERP-style integration**
-
----
-
-### 🎭 Deep Fake Detection & Authentication
-- AI-based system to detect **manipulated images and videos**
-- Uses **deep learning models** for media authenticity verification
-- Designed to combat misinformation and digital fraud  
-- Developed for **Smart India Hackathon (SIH)**
-
----
-
-### 📷 Live Text Reader (OCR + TTS)
-- Real-time text extraction using **Tesseract OCR**
-- Converts extracted text into speech using **Text-to-Speech**
-- Designed as an **assistive technology** tool
-
----
-
-### 👁️ Smart Vision – Object Detection with Depth Estimation
-- Real-time object detection using **YOLOv8**
-- Distance estimation using **MiDaS**
-- Audio feedback system for visually impaired users
-
----
-
-### 🗺️ Route Navigation System (Accessibility App)
-A desktop navigation assistant for visually impaired users:
-- Voice & text-based address input
-- Walking route calculation via **OpenRouteService**
-- Interactive route visualization using **Folium**
-- Step-by-step navigation using **Text-to-Speech**
-
-**Tech:** Python · PyQt5 · Speech Recognition · TTS · APIs
-
----
-
-### 🚗 MotoCar Rentals – Vehicle Hub
-A **Django-based Car & Bike Rental System**:
-- User authentication & profile management
-- Location-based vehicle filtering
-- Cart, checkout & booking system
-- Admin panel for managing users & rentals
-
-**Tech:** Django · Python · HTML · CSS · JavaScript · SQL
-
----
-
-### 🍔 Food Corner – Online Food Ordering System
-- Web-based food ordering platform
-- User-friendly interface for browsing menus and placing orders
-- Developed during **CodeAlpha Internship**
-- Focus on **frontend development and UI design**
-
-**Tech:** HTML · CSS · JavaScript
-
----
-
-### 👨‍🍳 Hire a Chef – Chef Hiring Platform
-- Platform to hire chefs based on culinary services
-- Service listing and booking functionality
-- Emphasis on **clean UI and client-side logic**
-
-**Tech:** HTML · CSS · JavaScript
-
----
-
-### 🎟️ Movie Ticket Booking System
-- Full-stack ticket booking platform
-- User authentication & booking management
-- Backend integration using **PHP & MySQL**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarmore003&show_icons=true&theme=tokyonight&hide_border=true" />
+### Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmore003&layout=compact&theme=tokyonight&hide_border=true" />
+### AI / ML / Deep Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" title="Keras"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarmore003&theme=tokyonight&hide_border=true" />
+### Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery"/>&nbsp;
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>&nbsp;
+</p>
+
+### Cloud & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
+</p>
+
+### Desktop & GUI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" title="PyQt5"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## **Featured Projects**
 
-- 🌐 GitHub: https://github.com/omkarmore003  
-- 💼 LinkedIn: https://www.linkedin.com/in/omkar-more-566894259/
-- 📧 Email: moreomkar609@gmail.com  
+| Project | Description | Technologies | Category |
+|---------|-------------|--------------|----------|
+| **AI-Driven Supply Chain Disruption Predictor** | Predictive analytics for supply chain risk management using ML models | `Python` `Scikit-learn` `Pandas` `FastAPI` `React` | AI/ML • Analytics |
+| **Deep Fake Detection & Authentication** | AI-powered media authenticity verification system for SIH Hackathon | `Python` `PyTorch` `OpenCV` `CNN` `Streamlit` | Computer Vision • Security |
+| **Smart Vision – Object Detection with Depth Estimation** | Assistive technology for visually impaired with audio feedback | `Python` `YOLOv8` `MiDaS` `OpenCV` `PyAudio` | Accessibility • AI |
+| **Route Navigation System (Accessibility App)** | Desktop navigation assistant with voice input and audio guidance | `Python` `PyQt5` `SpeechRecognition` `gTTS` `Folium` | Accessibility • Navigation |
+| **Live Text Reader (OCR + TTS)** | Real-time assistive reading tool with text extraction and speech | `Python` `Tesseract OCR` `OpenCV` `gTTS` | Accessibility • OCR |
+| **MotoCar Rentals – Vehicle Hub** | Full-featured vehicle rental platform with booking system | `Django` `Python` `JavaScript` `Bootstrap` `MySQL` | Web Development • Full-Stack |
+| **Food Corner – Online Food Ordering System** | Web-based food ordering platform (CodeAlpha Internship) | `HTML` `CSS` `JavaScript` `Bootstrap` | Frontend • E-commerce |
+| **Hire a Chef – Chef Hiring Platform** | Service-based platform for hiring culinary professionals | `HTML` `CSS` `JavaScript` `PHP` `MySQL` | Web Development • Services |
+| **Movie Ticket Booking System** | Full-stack ticket booking platform with seat selection | `PHP` `JavaScript` `MySQL` `HTML/CSS` | Web Development • Booking |
+
+---
+## AI-Augmented Development Philosophy
+
+I strongly believe in **augmented intelligence** — where human creativity and critical thinking are amplified by AI tools.  
+My development workflow integrates modern AI assistants such as **Cursor**, **GitHub Copilot**, and **Google AI Studio** to build faster, cleaner, and more scalable solutions.
+
+**How AI enhances my workflow:**
+- **Faster Development** – Rapid prototyping and implementation with AI assistance  
+- **Higher Code Quality** – AI-suggested patterns refined through human review  
+- **Architecture-First Thinking** – Less time on syntax, more focus on system design  
+- **Continuous Learning** – Exploring alternative solutions and optimizations using AI  
+
+> The future of software engineering is not about writing more code —  
+> it’s about making **better decisions** with AI as a collaborative partner.
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore and give them a star!
+## Productivity Approach
+
+My productivity comes from pairing **human intent with AI execution**.  
+While AI tools help accelerate code generation, I stay in control of:
+
+- Clear problem definition and prompt engineering  
+- System architecture and design decisions  
+- Code reviews, refactoring, and optimization  
+- Testing, debugging, and edge-case handling  
+- Business logic and real-world constraints  
+
+**Outcome:** faster delivery, cleaner code, and fewer defects — without sacrificing quality.
+
+---
+
+## Fun Insight
+
+I treat coding as a **dialogue with AI** —  
+I define the vision and constraints, and AI handles the boilerplate.
+
+This leaves me more time for what matters most:  
+**architecture, testing, experimentation, and occasionally building over-engineered smart systems just for fun.**
+
+## Connect With Me
+- GitHub: https://github.com/omkarmore003  
+- LinkedIn: https://www.linkedin.com/in/omkar-more-566894259/  
+- Email: mailto:moreomkar609@gmail.com  
+
+---
+⭐ *If you like my work, feel free to explore and star my repositories!*
